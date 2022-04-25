@@ -7,6 +7,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
 
 trigger:
+
 - main
 
 pool:
